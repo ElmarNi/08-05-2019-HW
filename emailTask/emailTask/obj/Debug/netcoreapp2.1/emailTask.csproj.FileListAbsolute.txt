@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#\emailTask\emailTask\bin\Debug\netcoreapp2.1\emailTask.deps.json
+C:\Users\User\Desktop\C#\emailTask\emailTask\bin\Debug\netcoreapp2.1\emailTask.runtimeconfig.json
+C:\Users\User\Desktop\C#\emailTask\emailTask\bin\Debug\netcoreapp2.1\emailTask.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\emailTask\emailTask\bin\Debug\netcoreapp2.1\emailTask.dll
+C:\Users\User\Desktop\C#\emailTask\emailTask\bin\Debug\netcoreapp2.1\emailTask.pdb
+C:\Users\User\Desktop\C#\emailTask\emailTask\obj\Debug\netcoreapp2.1\emailTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\emailTask\emailTask\obj\Debug\netcoreapp2.1\emailTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\emailTask\emailTask\obj\Debug\netcoreapp2.1\emailTask.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\emailTask\emailTask\obj\Debug\netcoreapp2.1\emailTask.dll
+C:\Users\User\Desktop\C#\emailTask\emailTask\obj\Debug\netcoreapp2.1\emailTask.pdb
